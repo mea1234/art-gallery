@@ -2,17 +2,16 @@
 ##Created with CodeSandbox
 ##This is a solution to the [Art gallery website challenge on Frontend Mentor. 
 ##  Screenshot 
-  ![Screenshot (26)](https://user-images.githubusercontent.com/117090624/203129138-1d9e6cd8-84d0-45d1-8b1e-a2fbe38af413.png)
-![Screenshot (25)](https://user-images.githubusercontent.com/117090624/203129142-2cb0bf15-cece-4306-93a7-1525e8defcdb.png)
-![Screenshot (24)](https://user-images.githubusercontent.com/117090624/203129144-5a52ab03-8af1-4405-8813-a17194ff92f7.png)
-![Screenshot (23)](https://user-images.githubusercontent.com/117090624/203129145-07e8ed20-a10a-4282-8d39-c5d5ad0ae07f.png)
-![r7j5hq csb app_location html (2)](https://user-images.githubusercontent.com/117090624/203129148-a020c7c2-3f8b-4b6d-a2e0-c1012ac13f82.png)
-![r7j5hq csb app_ (3)](https://user-images.githubusercontent.com/117090624/203129152-ceabe92d-6d2a-42c4-a836-c0faa8f9be24.png)
-![r7j5hq csb app_location html (1)](https://user-images.githubusercontent.com/117090624/203129154-9aed627e-54e8-498c-aea5-697fde585a70.png)
-![r7j5hq csb app_location html](https://user-images.githubusercontent.com/117090624/203129158-4cd2e86b-e02f-4740-96ca-ef77b352d350.png)
-![r7j5hq csb app_ (2)](https://user-images.githubusercontent.com/117090624/203129161-56a661c9-fbd9-485f-886b-227fa84c2994.png)
-![r7j5hq csb app_](https://user-images.githubusercontent.com/117090624/203129165-311e2f86-e84d-4327-8b78-6fa2e62e112d.png)
-[Links](#links)
+![1](https://user-images.githubusercontent.com/117090624/203132925-0aec27a4-6ed2-4ac0-8188-8f8c513064c0.png)
+![3](https://user-images.githubusercontent.com/117090624/203132957-1f1f872c-2f38-45a6-8ca0-b5f15322ee4f.png)
+![2](https://user-images.githubusercontent.com/117090624/203132996-88e50def-dc37-49bf-a7c![4](https://user-images.githubusercontent.com/117090624/203133004-40e8e0f1-4f64-44f6-99c3-9956f9414e31.png)
+b-a85a01cfd502.png)
+![5](https://user-images.githubusercontent.com/117090624/203133013-b18332a4-4025-410b-8b6e-5b4e54332de4.png)
+![6](https://user-images.githubusercontent.com/117090624/203133037-70503ca9-fa0a-48ba-ac1b-39485b5de385.png)
+![7 (1)](https://user-images.githubusercontent.com/117090624/203133061-7195113e-9f17-472f-97c6-bf0b8fef1621.png)
+![7 (2)](https://user-images.githubusercontent.com/117090624/203133064-29ff6506-d149-41e1-afed-f0ed9592a1c1.png)
+![7 (3)](https://user-images.githubusercontent.com/117090624/203133066-bd603d13-b9c8-4fa6-b4c9-674d4a477dbc.png)
+![7 (4)](https://user-images.githubusercontent.com/117090624/203133068-b6aaa82f-39bc-4a89-84ad-0a90e0e0c422.png)
 
  ##What I learned
     white-space (no-wrap) property;
